@@ -17,20 +17,13 @@ You can of course import into Eclipse and run from there as well without ant.
 
 From a standalone jar file, simply run:
 
-    java -jar wigglemouse.jar
+    java -jar pmd-test.jar
 
 If you want to run without a gui:
 
-    java -jar wigglemouse.jar -nogui
+    java -jar pmd-test.jar -nogui
 
 If you want to set an interval from the command line, e.g. 10 seconds:
 
-    java -jar wigglemouse.jar -interval 0:0:10
+    java -jar pmd-test.jar -interval 0:0:10
 
-# Website
-
-Please visit [http://wigglemouse.sourceforge.net/](http://wigglemouse.sourceforge.net/)
-
-# Downloads
-
-Please visit [sourceforge](http://sourceforge.net/projects/wigglemouse/files/) 
