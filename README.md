@@ -1,6 +1,6 @@
-# WiggleMouse
+# AutoMode
 
-An app that wiggles your mouse in set intervals. Though dead simple, quite popular with more than 40 000 downloads 2009-2015.
+An app that Automates certain things in set intervals. Though dead simple, quite popular with more than 40 000 downloads 2009-2015.
 
 
 # Build and run
